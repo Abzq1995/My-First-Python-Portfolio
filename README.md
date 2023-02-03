@@ -1,2 +1,3 @@
 # My First Python Portfolio
-This portfolio will show my python projects
+Hi My name is Abdul Quadir. 
+This portfolio will show what ive learned and applied as python projects .
