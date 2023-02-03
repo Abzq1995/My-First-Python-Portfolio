@@ -42,3 +42,24 @@ tweet = False
 print("My pet is called", dog_name, ". They are a", dog_breed, "and they are", dog_age, "years old.")
 print("Statement:", dog_name, "barks:", bark)
 print("Statement:", dog_name, "tweets:", tweet)
+
+print(100 * '_')
+
+#Excercise 5
+chemistry = int(input("Enter your Chemistry mark here: "))
+biology = int(input("Enter your Biology mark here: "))
+physics = int(input("Enter your Physics mark here: "))
+
+average = (chemistry + biology + physics) / 3
+
+print()
+if average > 84:
+    print("Based on your average mark of", average, ", you've earned a distinction!")
+
+if 64 < average < 85:
+    print("Based on your average mark of", average, ", you've earned a pass!")
+
+if average < 65:
+    print("Based on your average mark of", average, ", you have unfortunately failed...")
+
+
