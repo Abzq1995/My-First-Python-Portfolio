@@ -1,0 +1,37 @@
+This text file will explain what each exercise is for my first Python project.
+
+Excercise 1 : strings: Set three variables to the words "Good", "Day", and your name.
+Combine these strings together (or concatenate them) with a space in between
+each word and print out the sentence variable.
+
+Excersie 2 : Polite program : Create a Python file that will input your first name, last name and outputs -
+"It is a pleasure to meet you, [firstname] [lastname]!".
+
+Excersise 3 : Integer and floats: Copy this code and run it in your editor:
+
+number1 = input("Enter whole number: ")
+number2 = input("Enter decimal number: ")
+ 
+integer_number = int(number1)
+float_number = float(number2)
+round_number = int(round(float_number))
+ 
+print(number1)
+print(number2)
+print(round_number)
+Note down the output of this code. Go through and comment on the code, 
+explaining what is happening at each stage (remember: don’t over-comment).
+
+Add a third integer user input that divides the round_number and stores it in a variable called final_number, 
+and print this new variable at the end of the program.
+
+Excercise 4 : Dog information: Create a program that takes input of a dog’s name and breed, 
+along with their age.
+
+Create two variables; bark and tweet and set them to True and False respectively.
+
+Finally, print out statements that reflect an output like the below:
+
+My pet is called Clive. They are a Labrador and they are 3 years old.
+Statement: Clive barks. True.
+Statement: Clive tweets. False.
