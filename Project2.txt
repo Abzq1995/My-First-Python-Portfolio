@@ -1,6 +1,6 @@
 This Project will consist of 5 mini projects. 
-A basic calcultor. 
-An improved calculator. 
-A basic translator .
-A guessing game.
-A madlibs game.
+A basic calcultor - A basic calculator which will add two numbers.
+An improved calculator - A better calculator which allow the + , - , / , •  functions to be calculated and also allow decimal numbers.
+A basic translator - A basic translator with given instructions will translate and adjust a given phrase.
+A guessing game - A basic guessing game which will have a secret word , with 3 guesses.
+A madlibs game - A basic Madlibs game with inputed  words.
