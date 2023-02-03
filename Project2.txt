@@ -1,0 +1,6 @@
+This Project will consist of 5 mini projects. 
+A basic calcultor. 
+A better calculator. 
+A basic translator .
+A guessing game.
+A madlibs game.
