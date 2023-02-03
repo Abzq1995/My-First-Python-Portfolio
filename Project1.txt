@@ -35,3 +35,22 @@ Finally, print out statements that reflect an output like the below:
 My pet is called Clive. They are a Labrador and they are 3 years old.
 Statement: Clive barks. True.
 Statement: Clive tweets. False.
+
+Excercise 5 : Create a new Python file and write a program that does the following:
+
+Asks for an input from the user as a mark.
+If the mark is greater than 85 print "You’ve earned a distinction!"
+If the mark is between 65 and 85 print "You’ve earned a pass!
+Anything else print "You have unfortunately failed…"
+Build on this program by taking 3 different marks for chemistry, biology, and physics.
+Output each of these marks to the user, and calculate the output based on the average of these marks.
+
+Note: When calculating the average, remember BIDMAS and use brackets where needed.
+
+Your output should do the following:
+
+If the average mark is greater than 85 print -
+"Based on your average mark of [average mark value], you’ve earned a distinction!"
+If the average mark is between 65 and 85 print -
+"Based on your average mark of [average mark value], you’ve earned a pass!"
+Anything else print "Based on your average mark of [average mark value], you have unfortunately failed…"
